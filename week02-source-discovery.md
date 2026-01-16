@@ -18,7 +18,7 @@
 | [The Solver: NFL Optimizer](https://thesolver.com/optimizer/nfl) | Specialized repository (tool/docs) | Gives me a structured way to build lineups using constraints that match how Milly winners are built, such as stacking rules, correlation, and exposure control. It helps turn my strategy into repeatable lineup rules instead of random builds. |
 | [Pro Football Focus (PFF)](https://www.pff.com) | News and media (industry publication / data source) | Gives player level grades, matchups, and usage context I can use to justify plays beyond box scores. This is useful for deciding who is actually playing well and where the real edges are for both Classic and Showdown slates. |
 | [Pro Football Reference](https://www.pro-football-reference.com) | News and media (industry publication / data source) | Gives historical player, team, and game level stats I can use to validate trends behind Milly winning builds (volume, efficiency, game environment) instead of relying on opinions. |
-| [Title of source](URL) | Book or eBook (library catalog / Amazon / Goodreads) | Why it seems valuable. |
+| [How to Play Fantasy Sports Strategically (and Win) (PDF)](How%20to%20Play%20Fantasy%20Sports%20Strategically%20%28and%20Win%29.pdf) | Book or eBook (PDF guide) | Gives a structured approach to contest selection, roster construction, and risk management I can compare against Milly winner patterns and my own tracking. |
 | [Title of source](URL) | Your choice (any method) | Why it seems valuable. |
 
 
