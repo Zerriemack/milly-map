@@ -10,8 +10,8 @@
 |---|---|---|
 | [FantasyCruncher Contest Links: NFL 2024 Week 17](https://www.fantasycruncher.com/contest-links/NFL/2024-week-17) | Search engine (Google / DuckDuckGo) | Lets me pull real winning lineups by slate so I can study roster construction patterns across weeks and seasons instead of guessing. |
 | 2025 NFL Milly Maker + TNF/SNF/MNF Showdown Winners Dataset (personal tracking) | Self collected dataset | My own tracked results give me a consistent baseline to compare against public sources and test trends across the season. |
-| [Title of source](URL) | Expert recommendation (cited by a trusted analyst) |  |
-| [Title of source](URL) | Citation chaining (found in references of another source) |  |
+| [DraftKings NFL Rules (Official)](https://www.draftkings.com/help/rules/1) | Official rules / primary source (DraftKings help center) | Defines the contest format and rule constraints (entry limits, contest types, general rules) so my analysis matches how DraftKings actually runs NFL contests. |
+| [DraftKings NFL Scoring Rules (Official)](https://www.draftkings.com/help/rules/1/96) | Official rules / primary source (DraftKings help center) | Provides the scoring system that drives lineup value and roster construction decisions, so trends I find are tied directly to scoring incentives and payout outcomes. |
 | [Title of source](URL) | Community forum (Reddit / specialty forum thread) |  |
 | [Title of source](URL) | Social media (YouTube / podcast episode) |  |
 | [Run The Sims: NFL SimRunner](https://www.runthesims.com/nfl/premium/simrunner/) | Specialized repository (tool/docs) | Lets me run slate simulations so I can compare outcomes, ownership leverage, and lineup constructions without relying on vibes. This supports Classic Milly decisions around stacks, leverage, and how often certain builds actually win. |
